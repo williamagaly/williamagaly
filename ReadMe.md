@@ -13,7 +13,7 @@ Sou apaixonado por transformar dados em insights acionáveis e criar soluções 
 - 📊 **Análise de Dados** e Business Intelligence
 - 🤖 **Machine Learning** e Modelos Preditivos
 - 🐍 **Python**, SQL e Big Data
-- 📈 **Visualização de Dados** com Tableau/Power BI
+- 📈 **Visualização de Dados** com /
 - 💡 **Data Storytelling** e Comunicação de Dados
 
 ---
@@ -48,14 +48,11 @@ Busco oportunidades na área de **Ciência de Dados** para:
 ### Análise & Visualização
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### Ferramentas & Plataformas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
