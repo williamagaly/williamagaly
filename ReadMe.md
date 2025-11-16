@@ -1,4 +1,4 @@
-# 👋 Olá! Sou William Santos de Lima
+# 👋 Olá! Sou William
 
 ## 🎯 Sobre Mim
 
